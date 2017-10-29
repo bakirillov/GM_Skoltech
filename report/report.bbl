@@ -1,0 +1,342 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{esteva2017dermatologist}{article}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=5243abb0865221bf8daee169b621b075}{%
+           family={Esteva},
+           familyi={E\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9eebdac3670ed2b9871136c675f3354e}{%
+           family={Kuprel},
+           familyi={K\bibinitperiod},
+           given={Brett},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e285ada12e7ce7a12d36caa4543c7ac1}{%
+           family={Novoa},
+           familyi={N\bibinitperiod},
+           given={Roberto\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d5274c1d02c20ebd471b200127fcee09}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=35b92c6df7bef8366568e0599c9f11ab}{%
+           family={Swetter},
+           familyi={S\bibinitperiod},
+           given={Susan\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=75a2a72a61e2080318d07a3b5591179e}{%
+           family={Blau},
+           familyi={B\bibinitperiod},
+           given={Helen\bibnamedelima M},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5112ea130eadef0764fce0145b8b9f91}{%
+           family={Thrun},
+           familyi={T\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Research}%
+      }
+      \strng{authornamehash}{8996a2e2d5273de74158f688db6d25f7}
+      \strng{authorfullhash}{5a7bc99839c91e6832c4476f83f989db}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Dermatologist-level classification of skin cancer with deep neural networks}
+      \field{year}{2017}
+      \field{number}{7639}
+      \range{number}{1}
+      \field{pages}{115\bibrangedash 118}
+      \range{pages}{4}
+      \field{volume}{542}
+      \range{volume}{1}
+    \endentry
+    \entry{lu2015surpassing}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=df2e7ecd40e57af5d185766782ccbc0b}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Chaochao},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7e09524e32e7b51c169850f848787677}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Xiaoou},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{029477722800d85d128f9397911d2052}
+      \strng{fullhash}{029477722800d85d128f9397911d2052}
+      \strng{authornamehash}{029477722800d85d128f9397911d2052}
+      \strng{authorfullhash}{029477722800d85d128f9397911d2052}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{AAAI}
+      \field{title}{Surpassing Human-Level Face Verification Performance on LFW with GaussianFace.}
+      \field{year}{2015}
+      \field{pages}{3811\bibrangedash 3819}
+      \range{pages}{9}
+    \endentry
+    \entry{liu2017towards}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=f71775b7cd8457e39479f68035d08a5c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shixia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=465d9de4befead1025d5f95c6db12a4a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiting},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1abb7f4e37e5ea4c1296b92783437793}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mengchen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7a47a154652ccc647a0e6adf1570095a}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{authornamehash}{e250fec93fa64ddd2dfae9fdf61407db}
+      \strng{authorfullhash}{23c630215f69318f8f8761c0cd7f64be}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Visual Informatics}
+      \field{title}{Towards better analysis of machine learning models: A visual analytics perspective}
+      \field{year}{2017}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{48\bibrangedash 56}
+      \range{pages}{9}
+      \field{volume}{1}
+      \range{volume}{1}
+    \endentry
+    \entry{shwartz2017opening}{article}{}
+      \name{author}{2}{}{%
+        {{hash=11ec0d907628a973140a39bb0dca5b31}{%
+           family={Shwartz-Ziv},
+           familyi={S\bibinithyphendelim Z\bibinitperiod},
+           given={Ravid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4e62b78dfc3dad1032ffab359db7276b}{%
+           family={Tishby},
+           familyi={T\bibinitperiod},
+           given={Naftali},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ed44d4ef646b284c32be376cdd43c4d}
+      \strng{fullhash}{2ed44d4ef646b284c32be376cdd43c4d}
+      \strng{authornamehash}{2ed44d4ef646b284c32be376cdd43c4d}
+      \strng{authorfullhash}{2ed44d4ef646b284c32be376cdd43c4d}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1703.00810}
+      \field{title}{Opening the Black Box of Deep Neural Networks via Information}
+      \field{year}{2017}
+    \endentry
+    \entry{tishby2015deep}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=4e62b78dfc3dad1032ffab359db7276b}{%
+           family={Tishby},
+           familyi={T\bibinitperiod},
+           given={Naftali},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6582d96b8b7d58f9620c8953bc5ef8df}{%
+           family={Zaslavsky},
+           familyi={Z\bibinitperiod},
+           given={Noga},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{289d3e31a0efc74c50c11d9540b1023c}
+      \strng{fullhash}{289d3e31a0efc74c50c11d9540b1023c}
+      \strng{authornamehash}{289d3e31a0efc74c50c11d9540b1023c}
+      \strng{authorfullhash}{289d3e31a0efc74c50c11d9540b1023c}
+      \field{sortinit}{6}
+      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Information Theory Workshop (ITW), 2015 IEEE}
+      \field{title}{Deep learning and the information bottleneck principle}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{lecun1998mnist}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6a1aa6b7eab12b931ca7c7e3f927231d}{%
+           family={LeCun},
+           familyi={L\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a1aa6b7eab12b931ca7c7e3f927231d}
+      \strng{fullhash}{6a1aa6b7eab12b931ca7c7e3f927231d}
+      \strng{authornamehash}{6a1aa6b7eab12b931ca7c7e3f927231d}
+      \strng{authorfullhash}{6a1aa6b7eab12b931ca7c7e3f927231d}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{http://yann. lecun. com/exdb/mnist/}
+      \field{title}{The MNIST database of handwritten digits}
+      \field{year}{1998}
+    \endentry
+    \entry{ver2000non}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1ffc3c941cd1be0345609fa7ff0d39ad}{%
+           family={Ver\bibnamedelima Steeg},
+           familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Greg},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ffc3c941cd1be0345609fa7ff0d39ad}
+      \strng{fullhash}{1ffc3c941cd1be0345609fa7ff0d39ad}
+      \strng{authornamehash}{1ffc3c941cd1be0345609fa7ff0d39ad}
+      \strng{authorfullhash}{1ffc3c941cd1be0345609fa7ff0d39ad}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Non-parametric entropy estimation toolbox (npeet)}
+      \field{year}{2000}
+    \endentry
+    \entry{kingma2014adam}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9e7e4137e7cbcd294ec200aa968a6f22}{%
+           family={Kingma},
+           familyi={K\bibinitperiod},
+           given={Diederik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8aa66e8231cc2fdbe67aa4f18ca970c6}{%
+           family={Ba},
+           familyi={B\bibinitperiod},
+           given={Jimmy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1427d3205b977a6b68878ebd3c4c7f69}
+      \strng{fullhash}{1427d3205b977a6b68878ebd3c4c7f69}
+      \strng{authornamehash}{1427d3205b977a6b68878ebd3c4c7f69}
+      \strng{authorfullhash}{1427d3205b977a6b68878ebd3c4c7f69}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1412.6980}
+      \field{title}{Adam: A method for stochastic optimization}
+      \field{year}{2014}
+    \endentry
+    \entry{mygithub}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2a2857549767890e68ea7f55944b6379}{%
+           family={Kirillov},
+           familyi={K\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a2857549767890e68ea7f55944b6379}
+      \strng{fullhash}{2a2857549767890e68ea7f55944b6379}
+      \strng{authornamehash}{2a2857549767890e68ea7f55944b6379}
+      \strng{authorfullhash}{2a2857549767890e68ea7f55944b6379}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Numerical experiments for the report}
+      \verb{url}
+      \verb https://github.com/bakirillov/GM_Skoltech
+      \endverb
+    \endentry
+    \entry{idnns}{online}{}
+      \name{author}{1}{}{%
+        {{hash=be48e67dfd70a0579197109531fc2888}{%
+           family={Schwarz-Ziv},
+           familyi={S\bibinithyphendelim Z\bibinitperiod},
+           given={Ravid},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{be48e67dfd70a0579197109531fc2888}
+      \strng{fullhash}{be48e67dfd70a0579197109531fc2888}
+      \strng{authornamehash}{be48e67dfd70a0579197109531fc2888}
+      \strng{authorfullhash}{be48e67dfd70a0579197109531fc2888}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IDNNs}
+      \verb{url}
+      \verb https://github.com/ravidziv/IDNNs
+      \endverb
+    \endentry
+    \entry{alemi2016deep}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=123aa9c8bdfd9c959e3e89efceb22bd3}{%
+           family={Alemi},
+           familyi={A\bibinitperiod},
+           given={Alexander\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=283cecbdc579f4c9098a22907b254877}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=dedcc506c0d75a72c1fb1a02238af22c}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={Joshua\bibnamedelima V},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=d01ba1edf5711066e4d420d9df8d8f43}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{authornamehash}{7b770c1926e5162e6505c1a3b8ae4b9b}
+      \strng{authorfullhash}{eca26c3560a2b6f86b39154e0a1d2f7d}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1612.00410}
+      \field{title}{Deep Variational Information Bottleneck}
+      \field{year}{2016}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
